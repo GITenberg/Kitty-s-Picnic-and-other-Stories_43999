@@ -13,6 +13,8 @@ creator:
     - http://www.gutenberg.org/browse/authors/u#a49
     - http://en.wikipedia.org/wiki/Anonymity
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/43999#Kitty-s-Picnic-and-other-Stories
 gutenberg_issued: '2013-10-22'
 gutenberg_type: Text
 identifiers:
